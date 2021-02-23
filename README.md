@@ -1,8 +1,11 @@
+
+
+<h1 align="center">Hi 👋, I'm Ankita Bohra</h1>
 I really enjoy to learn and develop.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita-bohra)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm Ankita Bohra</h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankita bohra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankita bohra" height="30" width="40" /></a>
